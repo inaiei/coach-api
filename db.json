@@ -1,24 +1,4 @@
 {
-    "googlesignup": {},
-    "workouts": [{
-        "id": 1,
-        "dayOfWeek": "Wed",
-        "title": "Legs workout",
-        "description": "Time for a workout challenge! 400 reps of different variations of squats in 20 minutes! This is a fun and intense challenge you can add to your workout routine. Can you make it to 400 with me?",
-        "sessions": [{
-                "title": "400 REP SQUAT CHALLENGE",
-                "time": "20 minutes",
-                "description": "(Intense Leg & Booty Workout) ",
-                "video": "https://youtu.be/rhA-0ZpTYjo"
-            },
-            {
-                "title": "FULL BODY SCULPT",
-                "time": "20 minutes",
-                "description": "(Light Dumbbells, At Home Workout) ",
-                "video": "https://youtu.be/nl7Wdb8qyXY"
-            }
-        ]
-    }],
     "userprofiles": [{
             "id": 1,
             "email": "inaie.ignacio@gmail.com",
@@ -106,56 +86,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "id": 2,
-            "email": "inaie.ignacio@wanews.com.au",
-            "name": "Inaie Ignacio",
-            "picture": "",
-            "country": {
-                "name": "Australia",
-                "phoneCode": "+61",
-                "iso": "AU"
-            },
-            "mobile": "0435711560",
-            "gender": "F",
-            "age": 41,
-            "height": 162,
-            "heightUnit": "cm",
-            "weight": "60",
-            "weightUnit": "kg",
-            "activityLevel": {
-                "id": 2,
-                "image": "/Images/yoga-asana.svg",
-                "title": "Light",
-                "description": "1-3 hours of gentle to moderaate exercise",
-                "factor": 1.375
-            },
-            "goal": {
-                "id": 3,
-                "image": "/Images/timer.svg",
-                "title": "Athletic Performance",
-                "description": "You want optimal nutrition to support long and intense athletic training. (Minimal to no weight change desired.)"
-            },
-            "workouts": [{
-                "id": 1,
-                "dayOfWeek": "Wed",
-                "title": "Legs workout",
-                "description": "Time for a workout challenge! 400 reps of different variations of squats in 20 minutes! This is a fun and intense challenge you can add to your workout routine. Can you make it to 400 with me?",
-                "sessions": [{
-                        "title": "400 REP SQUAT CHALLENGE",
-                        "time": "20 minutes",
-                        "description": "(Intense Leg & Booty Workout) ",
-                        "video": "https://youtu.be/rhA-0ZpTYjo"
-                    },
-                    {
-                        "title": "FULL BODY SCULPT",
-                        "time": "20 minutes",
-                        "description": "(Light Dumbbells, At Home Workout) ",
-                        "video": "https://youtu.be/nl7Wdb8qyXY"
-                    }
-                ]
-            }]
         },
         {
             "id": 3,
@@ -246,7 +176,4 @@
             ]
         }
     ],
-    "auth": [{
-
-    }]
 }
