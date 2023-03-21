@@ -30,7 +30,7 @@
             "description": "You want to improve your nutrition and overall health, while maintaining your current weight."
         }
     ],
-    "activityLevel": [{
+    "activitylevels": [{
             "id": 1,
             "image": "/Images/walking.svg",
             "title": "Very light",
