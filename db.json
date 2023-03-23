@@ -78,7 +78,7 @@
             "title": "400 REP SQUAT CHALLENGE",
             "time": "20 minutes",
             "description": "(Intense Leg & Booty Workout) ",
-            "video": "~/videos/400_REP_SQUAT_CHALLENGE.mp4"
+            "video": "/videos/400_REP_SQUAT_CHALLENGE.mp4"
         },
         {
             "id": 2,
@@ -87,7 +87,7 @@
             "title": "FULL BODY SCULPT",
             "time": "20 minutes",
             "description": "(Light Dumbbells, At Home Workout) ",
-            "video": "~/videos/20_MIN_FULL_BODY_SCULPT.mp4"
+            "video": "/videos/20_MIN_FULL_BODY_SCULPT.mp4"
         }
     ],
     "workouts": [{
