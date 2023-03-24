@@ -79,7 +79,7 @@
             "time": "20 minutes",
             "description": "(Intense Leg & Booty Workout) ",
             "video": "/videos/400_REP_SQUAT_CHALLENGE.mp4", 
-            "tags": ["Lower body", "cardio"]
+            "tags": ["Lower body", "Cardio", "Lose weight", "Moderate"]
         },
         {
             "id": 2,
@@ -89,7 +89,7 @@
             "time": "20 minutes",
             "description": "(Light Dumbbells, At Home Workout) ",
             "video": "/videos/20_MIN_FULL_BODY_SCULPT.mp4", 
-            "tags": ["Upper body", "strengh"]
+            "tags": ["Upper body", "Strengh", "Lose weight", "Moderate"]
         }
     ],
     "workouts": [{
